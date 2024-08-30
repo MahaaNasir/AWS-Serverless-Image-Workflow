@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmElj6w/X74ZnjAcZVJ4nLA1+o0dqzM1dkT3dVco185g8WLFZlTnpLZivB74y3WgGbxfsyITHYuCmzFnYngkpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manic\\OneDrive - Centennial College\\5. Semester\\API\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manic\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\amazon.lambda.s3events\\3.1.0\\amazon.lambda.s3events.3.1.0.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\awssdk.core\\3.7.303.14\\awssdk.core.3.7.303.14.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.302.15\\awssdk.dynamodbv2.3.7.302.15.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\awssdk.rekognition\\3.7.302.1\\awssdk.rekognition.3.7.302.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\awssdk.s3\\3.7.307.15\\awssdk.s3.3.7.307.15.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.1\\microsoft.netcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

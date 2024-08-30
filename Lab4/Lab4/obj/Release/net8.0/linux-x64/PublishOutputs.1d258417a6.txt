@@ -1,0 +1,14 @@
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Lab4.deps.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Lab4.runtimeconfig.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Lab4.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\AWSSDK.Rekognition.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\AWSSDK.S3.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\SixLabors.ImageSharp.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Lab4\Lab4\bin\Release\net8.0\publish\Lab4.dll

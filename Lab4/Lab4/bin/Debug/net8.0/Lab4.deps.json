@@ -1,0 +1,191 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab4/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.303.14",
+          "AWSSDK.DynamoDBv2": "3.7.302.15",
+          "AWSSDK.Rekognition": "3.7.302.1",
+          "AWSSDK.S3": "3.7.307.15",
+          "Amazon.Lambda.Core": "2.2.0",
+          "Amazon.Lambda.S3Events": "3.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.4.1",
+          "System.Drawing.Common": "8.0.4"
+        },
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.2.0": {
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.S3Events/3.1.0": {
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.S3Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.4.1": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.303.14": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.303.14"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.302.15": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.303.14"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.302.15"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.7.302.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.303.14"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.302.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.307.15": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.303.14"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.307.15"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.4": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.424.16911"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DHqKeD1CYocP0t1dJC/NaXfu+5k6AoqnQ1Hlu/J2mXpLpCyeJfY+tIqT5fpruDarUlU0NtdIH8zSkCjeinyb1A==",
+      "path": "amazon.lambda.core/2.2.0",
+      "hashPath": "amazon.lambda.core.2.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.S3Events/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dBhPrxs7c5BA97hKxszYEtu7EJh2q8v7v4LYCQ26aXd/+/vzvP3taMa4PY8AizsPGqvp1chdTZWCB8D4KG3iNg==",
+      "path": "amazon.lambda.s3events/3.1.0",
+      "hashPath": "amazon.lambda.s3events.3.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X06Z8zPDZJS/xAoAntSqsxOoSSKKFJMg+0QGPRtlPt1mbP19HFXlXn+q+XqHdVWWFsiH/r7KbDIICr0nsrlwug==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.4.1",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.303.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CB0eSYIH1TjP2z16l8cKkG3UkuYj9KZdmGFuzx+JML7DhdsIz+dnuwI4fPf1mH8GlfjhS17xgHp1apDty/pS0A==",
+      "path": "awssdk.core/3.7.303.14",
+      "hashPath": "awssdk.core.3.7.303.14.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.302.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q/xHHeuCBE/KDo7/WHT2NC7z0goshw0qTebPvVw66QDHlgCRc4fW1x2O8Sq1hgh24WyfLswQfLlrN3LJB42Ibw==",
+      "path": "awssdk.dynamodbv2/3.7.302.15",
+      "hashPath": "awssdk.dynamodbv2.3.7.302.15.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.7.302.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KRDYLV2EMskWvf8vjSZV/MvYdWWN1DIzDuHtj4b19PzHAa9jgL/nwAwC+bTXbRko7ldTIpht9eShLF6NshFuVw==",
+      "path": "awssdk.rekognition/3.7.302.1",
+      "hashPath": "awssdk.rekognition.3.7.302.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.307.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wWNfFT5TvBBlSaqfAi1uQOcWISNyCZj82dsMlCyn0XIW8RKgOCJPfT9sRYdcDJAEaV+2LzPzk2KAChMYuEIYHA==",
+      "path": "awssdk.s3/3.7.307.15",
+      "hashPath": "awssdk.s3.3.7.307.15.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3G4xpa8mUYGzEF0HlswlBArAFywHJIzsZoB5hU4yMlnYHaabj/lg019BwbyyYBxj0aoM7Cz+jdlgUemeno9LOQ==",
+      "path": "system.drawing.common/8.0.4",
+      "hashPath": "system.drawing.common.8.0.4.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Comment": "State Machine",
+  "StartAt": "DetectLabelsAndUpdateMetadata",
+  "States": {
+    "DetectLabelsAndUpdateMetadata": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:339713043750:function:lab4-DetectLabelsAndUpdateMetadata-OpkhV5GNN6bM",
+      "Next": "WaitToActivate"
+    },
+    "WaitToActivate": {
+      "Type": "Wait",
+      "SecondsPath": "$.WaitInSeconds",
+      "Next": "GenerateThumbnailAndStoreInS3"
+    },
+    "GenerateThumbnailAndStoreInS3": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:339713043750:function:lab4-GenerateThumbnailAndStoreInS3-h8dHrcLhZ7tP",
+      "End": true
+    }
+  }
+}
